@@ -1,0 +1,77 @@
+body {
+  background-color: black;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  background-color: rgb(48, 46, 46, 0.815);
+  border-radius: 20px;
+}
+
+div {
+  display: block;
+}
+
+.head1 {
+  font-family: "Lobster", cursive;
+  font-size: 100px;
+}
+
+#tit1 {
+  text-align: center;
+  color: white;
+}
+
+#span1 {
+  color: red;
+}
+
+.img {
+  text-align: center;
+  color: white;
+}
+
+#image {
+  width: 40%;
+  border-radius: 50px;
+  box-shadow: 5px 5px 500px red;
+}
+
+#paraf1 {
+  text-align: justify;
+  color: white;
+  width: 80%;
+  margin: auto;
+  font-size: 1.5rem;
+}
+
+.head2 {
+  color: red;
+  font-family: "Lobster", cursive;
+  margin-left: 100px;
+}
+
+ul {
+  color: white;
+  width: 80%;
+  margin: auto;
+  font-size: 1.5rem;
+  line-height: 50px;
+}
+
+#footer {
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+  padding: 20px;
+}
+
+#link {
+  border: 2px solid orange;
+  border-radius: 10px;
+  color: white;
+  background-color: black;
+  padding: 1rem;
+  text-decoration: none;
+}
