@@ -13,7 +13,7 @@ Bu proje, Stan Lee'nin hayatını ve başarılarını detaylandıran bir HTML sa
 
 ## Teknolojiler
 
--HTML
+- HTML
 - CSS (harici bir stil sayfası kullanarak)
 
 ## Ekran görüntüsü
