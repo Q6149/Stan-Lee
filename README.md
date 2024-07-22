@@ -18,7 +18,7 @@ Bu proje, Stan Lee'nin hayatını ve başarılarını detaylandıran bir HTML sa
 
 ## Ekran görüntüsü
 
-![Stan Lee](./img/stanleee.jpg)
+![Stan Lee](./img/stann.jpg)
 
 
 
