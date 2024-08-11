@@ -4,8 +4,8 @@ This project contains an HTML page detailing the life and achievements of Stan L
 
 ## Technologies
 
-- HTML
-- CSS (utilizing an external stylesheet)
+- HTML5
+- CSS3
 
 # Stan Lee Web Sayfası
 
@@ -13,8 +13,8 @@ Bu proje, Stan Lee'nin hayatını ve başarılarını detaylandıran bir HTML sa
 
 ## Teknolojiler
 
-- HTML
-- CSS (harici bir stil sayfası kullanarak)
+- HTML5
+- CSS3
 
 ## Ekran görüntüsü
 
